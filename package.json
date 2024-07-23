@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "author": "",
   "devDependencies": {
-    "cspell": "^8.0.0",
-    "fixpack": "^4.0.0",
-    "npm-run-all2": "^5.0.0"
+    "cspell": "8.0.0",
+    "fixpack": "4.0.0",
+    "npm-run-all2": "5.0.2"
   },
   "keywords": [],
   "license": "ISC",
